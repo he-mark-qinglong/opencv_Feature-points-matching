@@ -1,0 +1,39 @@
+PODS:
+  - AFNetworking (1.3.4)
+  - AFNetworking-ReactiveCocoa (0.0.2):
+    - AFNetworking (~> 1.0)
+    - ReactiveCocoa (~> 1.0)
+  - JRSwizzle (1.0)
+  - libextobjc/EXTConcreteProtocol (0.3):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTKeyPathCoding (0.3):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTScope (0.3):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/RuntimeExtensions (0.3)
+  - OpenCV (2.4.8)
+  - ReactiveCocoa (1.9.7):
+    - ReactiveCocoa/Core
+    - ReactiveCocoa/RACExtensions
+  - ReactiveCocoa/Core (1.9.7):
+    - JRSwizzle (~> 1.0)
+    - libextobjc/EXTConcreteProtocol (~> 0.3.0)
+    - libextobjc/EXTKeyPathCoding (~> 0.3.0)
+    - libextobjc/EXTScope (~> 0.3.0)
+  - ReactiveCocoa/RACExtensions (1.9.7):
+    - ReactiveCocoa/Core
+
+DEPENDENCIES:
+  - AFNetworking-ReactiveCocoa
+  - OpenCV
+  - ReactiveCocoa
+
+SPEC CHECKSUMS:
+  AFNetworking: 80c4e0652b08eb34e25b9c0ff3c82556fe5967b4
+  AFNetworking-ReactiveCocoa: 4cf398aabcd159661a6fc07eeca90b899cbe0b55
+  JRSwizzle: 30da7a2c539a4ebf954b16d15f6dd8221c9f6fa5
+  libextobjc: f1b1ea2e42fbfe7ae5d4f8624bbb4f56002e8536
+  OpenCV: 7d5de7dc31a8f3925eb643b62d16c2cafa373527
+  ReactiveCocoa: 4b785d2ee8f8687572422144bd01ce2e933ed493
+
+COCOAPODS: 0.33.1
